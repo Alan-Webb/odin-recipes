@@ -1,5 +1,6 @@
 # odin-recipes
 
-Beginner website exercise. Part of the Odin Project curriculum.
+Beginner website exercise as part of the Odin Project Foundation course curriculum.
 
-By the completeion of this project I will have demonstrated basic understanding of HTML.
+Completion of this project demonstrated understanding of very basic HTML5.
+
