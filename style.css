@@ -1,21 +1,38 @@
-* {
-  color: pink;
-  background-color: brown;
+html {
+  color: white;
+  background-color: rgb(39, 4, 4);
+  box-sizing: border-box;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  align-content: center;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
-h1, ul, ol {
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.header,
+.recipe {
   color: gold;
-  background-color: black;
+  background: black;
+  border: 3px solid blue;
+  text-align: center;
 }
 
-.green {
-  columns: green;
-  background-color: black;
+.header {
+  padding: 32px;
+  margin: 12px;
+  text-align: center;
 }
 
-#h3 {
-  columns: pink;
-  background-color: black;
+.recipe {
+  width: 200px;
+  padding-top: 24px;
+  padding-right: 32px;
+  padding-bottom: 24px;
+  padding-left: 32px;
+  margin-left: 155px;
+  margin-bottom: 25px;
 }

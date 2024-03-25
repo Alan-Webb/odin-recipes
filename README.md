@@ -6,3 +6,5 @@ Beginner website exercise as part of the Odin Project Foundation course curricul
 
 * Demonstrated application of very basic CSS.
 
+* Demonstrated basic knowledge of the CSS box-model.
+
